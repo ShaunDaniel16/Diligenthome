@@ -219,7 +219,7 @@ a {
 
 /* Subscribe Style */
 .subscribe-form {
-	background-color: #a91650;
+	background-color: #f8efe0;
 	padding: 80px 0px;
 	text-align: center;
 }
@@ -227,15 +227,15 @@ a {
 	margin-top: 0px;
 }
 .subscribe-form .section-heading h1 {
-	color: #fff;
+	color: #333;
 }
 .subscribe-form .section-heading .line-dec {
-	background-color: #fff;
+	background-color: #333;
 	margin: 0 auto;
 }
 .subscribe-form .main-content p {
 	font-size: 17px;
-	color: #fff;
+	color: #333;
 	margin-bottom: 30px;
 }
 .subscribe-form .main-content form  {
@@ -248,10 +248,10 @@ a {
 .subscribe-form .main-content form input {
 	width: 100%;
 	height: 46px;
-	border: 1px solid #fff;
+	border: 1px solid #248;
 	background-color: transparent;
 	padding-left: 15px;
-	color: #fff;
+	color: #333;
 	outline: none;
 }
 .subscribe-form .main-content form button:focus {
@@ -312,7 +312,7 @@ a {
 }
 .footer .logo img {
 	max-width: 100%;
-	width: 400px;
+	width: 123px;
 	margin-top: 60px;
 	margin-bottom: 40px;
 }
@@ -715,12 +715,12 @@ a {
     width: 100%;
     height: 45px;
     cursor: pointer;
-    background-color: #fff;
+    background-color: #e93d16;
     outline: none;
     border-radius: 5px;
     padding: 10px 15px;
     display: inline-block;
-    color: #3a8bcd;
+    color: #fff;
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 300;
