@@ -809,15 +809,15 @@ a {
 	}
 }
 #tell-number {
-	/* background-color: #31ce66; */
-		border-radius: 5px;
-/* padding: 10px 15px; */
-	display: inline-block;
-	color: #0062cc;
-	font-size: 14px;
-	text-transform: uppercase;
-	font-weight: 300;
-	letter-spacing: 0.4px;
-	text-decoration: none;
-	transition: all 0.5s;
+		background-color: transparent;
+	  border-radius: 5px;
+	  padding: 0px 0px;
+	  display: inline-block;
+	  color: #0062cc;
+	  font-size: 14px;
+	  text-transform: uppercase;
+	  font-weight: 300;
+	  letter-spacing: 0.4px;
+	  text-decoration: none;
+	  transition: all 0.5s;
 }
